@@ -10,7 +10,7 @@
 <section style="display: inline_block">
 <br>
  
-  <img align="right" alt="Ana-pic" height="305" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114938493/205463693-cb8bd80e-6895-4f48-ac6d-99f646158d93.png">
+  <img align="right" alt="Ana-pic" height="295" style="border-radius:50px;" src="https://user-images.githubusercontent.com/114938493/205463693-cb8bd80e-6895-4f48-ac6d-99f646158d93.png">
 </section>
 
 ##
@@ -34,8 +34,3 @@
   
   ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
 </section>
-  
-  
-  
-
-
