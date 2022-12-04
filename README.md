@@ -4,8 +4,8 @@
 
 <section align="center">
   <a href="https://github.com/alclisboa">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=alclisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="185m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alclisboa&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alclisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alclisboa&layout=compact&langs_count=7&theme=dracula"/>
 </section>
 <section style="display: inline_block">
 <br>
@@ -31,5 +31,11 @@
   - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/alclisboa);
   - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-luisa-3a5b1b183/);
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
+  
+  ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
 </section>
+  
+  
+  
+
 
