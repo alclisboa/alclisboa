@@ -1,6 +1,6 @@
 ### Hello world, I'm Ana Luísa!
   <a href = "mailto:analuisacarneirolisboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/ana-luisa-3a5b1b183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/ana-lu%C3%ADsa-c-lisb%C3%B4a-3a5b1b183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <section align="center">
   <a href="https://github.com/alclisboa">
