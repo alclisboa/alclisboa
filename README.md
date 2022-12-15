@@ -1,6 +1,6 @@
 ### Hello world, I'm Ana Luísa!
   <a href = "mailto:analuisacarneirolisboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/ana-lu%C3%ADsa-c-lisb%C3%B4a-3a5b1b183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/ana-llisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <section align="center">
   <a href="https://github.com/alclisboa">
@@ -29,7 +29,7 @@
   - 📝 I'm currently learning Typescript;
   - 💼 I'm currently not working;
   - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa);
-  - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-luisa-3a5b1b183/);
+  - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
   ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
