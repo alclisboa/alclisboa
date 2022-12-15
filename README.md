@@ -26,8 +26,8 @@
   😉 More About Me:
  
   - 🌱 I'm in the 2nd semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
-  - 📝 I'm currently learning Typescript;
   - 💼 I'm currently not working;
+  - 📝 I'm currently learning Typescript;
   - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa);
   - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
