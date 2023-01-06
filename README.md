@@ -32,5 +32,5 @@
   - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
-  ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg) -->
 </section>
