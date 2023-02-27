@@ -4,8 +4,8 @@
 
 <section align="center">
   <a href="https://github.com/alclisboa">
-<!--     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alclisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img width="48%"  whidth: src="https://github-readme-stats.vercel.app/api/top-langs/?username=alclisboa&layout=compact&langs_count=7&theme=dracula"/> -->
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=alclisboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="40%" whidth: src="https://github-readme-stats.vercel.app/api/top-langs/?username=alclisboa&layout=compact&langs_count=7&theme=dracula"/>
 </section>
 <section style="display: inline_block">
 <br>
@@ -32,5 +32,5 @@
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
 <!-- - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa); -->
-<!--   ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
 </section>
