@@ -26,7 +26,7 @@
   <br>
   😉 More About Me:
  
-  - 🌱 I'm in the 4nd semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
+  - 🌱 I'm in the 7nd semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
   - 💼 I'm currently not working;
   - 📝 I'm currently learning Typescript;
   - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
