@@ -33,6 +33,5 @@
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
 <!-- - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa); -->
-  ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+  <!-- - ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)-->
 </section>
