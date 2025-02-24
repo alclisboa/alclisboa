@@ -1,6 +1,5 @@
 name: Generate Datas
 
-
 on:
 
 schedule: # execute every 12 hours
@@ -13,7 +12,7 @@ jobs:
 
 build:
 
-name: Jobs to update datas
+
 
 runs-on: ubuntu-latest
 
@@ -27,7 +26,7 @@ id: snake-gif
 
 with:
 
-github_user_name: alclisboa
+github_user_name: aclisboa
 
 svg_out_path: dist/github-contribution-grid-snake.svg
 
