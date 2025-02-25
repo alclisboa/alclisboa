@@ -27,11 +27,15 @@
   😉 More About Me:
  
   - 🌱 I'm in the 7nd semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
-  - 💼 I'm currently not working;
-  - 📝 I'm currently learning Typescript;
+  - 📝 I'm currently learning IA;
   - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
   - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
 <!-- - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa); -->
   <!-- - ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)-->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/na/alclisboa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alclisboa/alclisboa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alclisboa/alclisboa/output/github-contribution-grid-snake.svg">
+</picture>
 </section>
