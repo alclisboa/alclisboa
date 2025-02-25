@@ -25,12 +25,13 @@
   <br>
   <br>
   😉 More About Me:
- 
-  - 🌱 I'm in the 7nd semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
-  - 📝 I'm currently learning IA;
-  - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
-  - 📚 When I'm free, I like to study: 🔭 Astronomy, 🎨 Design e 💻 Programming.
   
+  - 🌱 I'm in the 7th semester of Software Engineering at the Catholic University of Brasília [(UCB)](https://ucb.catolica.edu.br/portal/curso/engenharia-de-software/);
+  - 🤖 Currently exploring Artificial Intelligence;
+  - 📫 Feel free to [email](mailto:analuisacarneirolisboa@gmail.com) me or contact me on [LinkedIn](https://www.linkedin.com/in/ana-llisboa/);
+  - 🍳 In my free time, I love exploring: 🔭 Astronomy, 🍽️ Cooking, 🎨 Design and 💻 Programming.
+  
+  I'm passionate about technology and always eager to learn new things, especially when I can apply them creatively.
 <!-- - 👩🏽‍💻 Most of my projects are available on [GitHub](https://github.com/alclisboa); -->
   <!-- - ![Snake animation](https://github.com/alclisboa/alclisboa/blob/output/github-contribution-grid-snake.svg)-->
   <picture>
