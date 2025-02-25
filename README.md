@@ -21,6 +21,8 @@
   <img align="left" alt="Rafa-Js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Ana-C"  height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="left" alt="Ana-Java"  height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
   <br>
   <br>
   <br>
